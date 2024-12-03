@@ -1,0 +1,18 @@
+# .NET Core
+bin/
+obj/
+.vs/
+
+# ASP.NET Core user secrets
+secrets/
+
+# Node.js (Frontend)
+node_modules/
+build/
+
+# IDEs
+.idea/
+.vscode/
+
+# Mac OS files
+.DS_Store
